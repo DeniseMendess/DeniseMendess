@@ -5,7 +5,7 @@
 
 Bem-vindo(a) ao meu repositório!
 
-Sou Denise Mendes Janota, desenvolvedora em formação e apaixonada por tecnologia. Atuo no desenvolvimento full-stack, criando soluções completas que incluem a construção de interfaces modernas e acessíveis no front-end quanto a estrutura lógica e funcional do back-end.
+Sou Denise Mendes Janota, desenvolvedora em formação e apaixonada por tecnologia. Atuo no desenvolvimento full-stack.
 
 <p align="left">
 
