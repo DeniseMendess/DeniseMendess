@@ -1,103 +1,64 @@
-👩🏽‍💻 Denise Mendes
----
+<h2 align="left">👩🏽‍💻 Denise Mendes</h2>
+
+###
 
 *`Desenvolvedora Full-Stack`*
 
-Bem-vindo(a) ao meu repositório!
+###
 
-Sou Denise Mendes Janota, desenvolvedora em formação e apaixonada por tecnologia. Atuo no desenvolvimento full-stack.
+<p align="left">Bem-vindo(a) ao meu repositório!</p>
 
-<p align="left">
+###
 
-<a href="https://www.linkedin.com/in/denise-mendes-janota-dev">
-  <img alt="linkedin" title="LinkedIn"
-       src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=person&logoColor=white">
-</a>
-<a href="mailto:denisemendesjanota@gmail.com">
-  <img alt="email" title="Email"
-       src="https://custom-icon-badges.demolab.com/badge/-Email-D14836?style=for-the-badge&logo=mail&logoColor=white">
-</a>
-<a href="https://wa.me/244937753527">
-  <img alt="whatsapp" title="WhatsApp"
-       src="https://custom-icon-badges.demolab.com/badge/-WhatsApp-25D366?style=for-the-badge&logo=comment-discussion&logoColor=white">
-</a>
+<p align="left">Sou Denise Mendes Janota, desenvolvedora em formação e apaixonada por tecnologia. Atuo no desenvolvimento full-stack.</p>
 
-</p>
+###
 
----
+<h3 align="left">Social Media</h3>
 
-### Linguagens e Tecnologias
-<img
-  align="left"
-  alt="HTML"
-  title="HTML"
-  width="30px"
-  style="padding-right: 10px"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"
-/>
+###
 
-<img 
-  align="left"
-  alt="CSS"
-  title="CSS"
-  width="30px"
-  style="padding-right: 10px"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
-/>
+<div align="left">
+  <a href="www.linkedin.com/in/denisemendess" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="www.youtube.com/@Denise_Mendess" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=flat" height="35" alt="youtube logo"  />
+  </a>
+  <a href="mailto:denisemendesjanota@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://wa.me/244937753527" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=flat" height="35" alt="whatsapp logo"  />
+  </a>
+</div>
 
-<img 
-  align="left"
-  alt="JavaScript"
-  title="JavaScript"
-  width="30px"
-  style="padding-right: 10px"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
-/>
-<img 
-  align="left"
-  alt="PHP"
-  title="PHP"
-  width="30px"
-  style="padding-right: 10px"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"
-/>
-<img
-  align="left"
-  alt="MySQL"
-  title="MySQL"
-  width="30px"
-  style="padding-right: 10px"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"
-/>
-<img
-  align="left"
-  alt="Node.js"
-  title="Node.js"
-  width="30px"
-  style="padding-right: 10px"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
-/>
-<!--
-<br>
-<br>
+###
 
----
+<h3 align="left">Linguagens e Tecnologias</h3>
 
-### 📊 Estatísticas
-<p>
-  <img
-  align="left"
-  alt="Github Stats"
-  height="250"
-  style="padding-right: 10px"
-  src="https://github-readme-stats.vercel.app/api?username=denisemendesDev&show_icons=true&theme=radical&include_all_commits=true&locale=pt-pt"
-/>
+###
 
-<img
-  align="left"
-  alt="Github Stats"
-  height="250"
-  style="padding-right: 10px"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=denisemendesDev&theme=radical&layout=compact&custom_title=Tecnologias&langs_count=6"
-/>
-</p>-->
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=html" height="35" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="35" alt="css logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="35" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="35" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=php" height="35" alt="php logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="35" alt="mysql logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DeniseMendess&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DeniseMendess&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&order=2" height="135" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DeniseMendess&radius=16&theme=redical&area=true&order=5" height="260" alt="activity-graph graph"  />
+</div>
+
+###
