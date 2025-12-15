@@ -12,6 +12,8 @@
 
 <p align="left">Sou Denise Mendes Janota, desenvolvedora em formação e apaixonada por tecnologia. Atuo no desenvolvimento full-stack.</p>
 
+---
+
 ###
 
 <h3 align="left">Social Media</h3>
@@ -19,10 +21,10 @@
 ###
 
 <div align="left">
-  <a href="www.linkedin.com/in/denisemendess" target="_blank">
+  <a href="https://www.linkedin.com/in/denisemendess" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="35" alt="linkedin logo"  />
   </a>
-  <a href="www.youtube.com/@Denise_Mendess" target="_blank">
+  <a href="https://www.youtube.com/@Denise_Mendess" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=flat" height="35" alt="youtube logo"  />
   </a>
   <a href="mailto:denisemendesjanota@gmail.com" target="_blank">
